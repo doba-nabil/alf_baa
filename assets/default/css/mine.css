@@ -220,11 +220,9 @@ html {
     left: 0;
     --translateZ: -90px;
 }
-
-
-
-
-
+.site-top-banner {
+    height: 40vh;
+}
 @keyframes box1 {
     0%,
     50% {

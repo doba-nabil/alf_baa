@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7092cd39-fb4e-47f1-bbda-0a869d2aa542" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/default/css/mine.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/default/css/mine.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/courses.html" beforeDir="false" afterPath="$PROJECT_DIR$/courses.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="courses.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/courses.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="301" column="46" selection-start-line="301" selection-start-column="46" selection-end-line="301" selection-end-column="46" />
+            <state relative-caret-position="85">
+              <caret line="304" column="86" selection-start-line="304" selection-start-column="86" selection-end-line="304" selection-end-column="86" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -42,6 +41,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="mine.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/default/css/mine.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="943">
+              <caret line="223" column="13" selection-start-line="223" selection-start-column="13" selection-end-line="223" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -54,13 +62,13 @@
       <find>.created-at</find>
       <find>custom-pagination</find>
       <find>Register</find>
-      <find />
+      <find>.blog-grid-card .blog-grid-image .created-at</find>
       <find>store/929/update_1.6.jpg</find>
       <find>Reset</find>
-      <find />
+      <find>.page-item.disabled .page-link</find>
       <find>foote</find>
-      <find />
-      <find />
+      <find>.subscribe-widget .form-control</find>
+      <find>.subscribe-widget .btn2</find>
       <find>loading</find>
       <find>Up</find>
       <find>&lt;bod</find>
@@ -82,7 +90,7 @@
       <replace>id=&quot;e&quot;</replace>
       <replace>Home</replace>
       <replace>Reset</replace>
-      <replace />
+      <replace>img src=&quot;</replace>
       <replace>pagination</replace>
       <replace>Course</replace>
       <replace>assets/images/blog.jpg</replace>
@@ -156,6 +164,24 @@
               <item name="alf_baa" type="b2602c69:ProjectViewProjectNode" />
               <item name="alf_baa" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="alf_baa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alf_baa" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alf_baa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alf_baa" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alf_baa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alf_baa" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -207,12 +233,12 @@
       <workItem from="1660777351461" duration="607000" />
       <workItem from="1660819993739" duration="27166000" />
       <workItem from="1660999414855" duration="10718000" />
-      <workItem from="1661125719751" duration="236000" />
+      <workItem from="1661125719751" duration="1332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83647000" />
+    <option name="totallyTimeSpent" value="84716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -529,13 +555,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/default/css/mine.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="222" selection-start-line="222" selection-end-line="222" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../zaker/classes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -548,10 +567,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/default/css/mine.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="223" column="13" selection-start-line="223" selection-start-column="13" selection-end-line="223" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/courses.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="301" column="46" selection-start-line="301" selection-start-column="46" selection-end-line="301" selection-end-column="46" />
+        <state relative-caret-position="85">
+          <caret line="304" column="86" selection-start-line="304" selection-start-column="86" selection-end-line="304" selection-end-column="86" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />

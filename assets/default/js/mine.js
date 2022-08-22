@@ -1,3 +1,13 @@
+$(".txa").each(function(){
+    $(this).html($(this).text().replace(/(.*[^\n])/g,"<p>$1</p>"));
+});
+$('.txa p').each(function() {
+    var $p = $(this);
+    if($.trim($p.html())==='') {
+        $p.remove();
+    }
+});
+
 $('.User-avtar').click(function () {
     if ($(".User-Dropdown").hasClass("U-open")) {
         $('.User-Dropdown').removeClass("U-open");

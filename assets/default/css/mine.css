@@ -1050,6 +1050,7 @@ footer .footer-menu li a {
 .why-us-section  .item h6 {
     margin-bottom:20px;
     color:#2f2f2f;
+    min-height: 50px;
 }
 .why-us-section  .mission p {
     margin-bottom: 10px;
@@ -1309,6 +1310,26 @@ footer .footer-menu li a {
 }
 .course-content-body .why-us-section .item ul{
     text-align: start;
+}
+.course-content-body .why-us-section .item .txa p{
+    text-align: start;
+    margin-top: 0.5em;
+    font-size: 13.7px;
+    line-height: 19px;
+    padding-left: 1.3em;
+    letter-spacing: 0.6px;
+}
+.course-content-body .why-us-section .item .txa p::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 400;
+    content: "\f14a";
+    height: 100%;
+    margin-left: -1.3em;
+    color:var(--main-color);
+    transition: 0.5s;
+}
+.course-content-body .why-us-section .item:hover .txa>p::before {
+    color: #ffffff;
 }
 .course-content-body .why-us-section .item:hover li{
     color: #ffffff;

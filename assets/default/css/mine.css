@@ -1286,6 +1286,26 @@ footer .footer-menu li a {
     background: var(--main-color);
     padding: 1em;
 }
+.info_section p{
+    font-weight: bolder;
+    margin-bottom: 1em;
+    color: #ffffff;
+    font-size: 12px;
+    list-style: inside;
+    margin-left: 1em;
+}
+.info_section p:before{
+    font-weight: 400;
+    content: "●";
+    height: 100%;
+    margin-left: -1.3em;
+    color: #ffffff;
+    transition: 0.5s;
+    margin-right: 2px;
+}
+.info_section p:last-child{
+    margin-bottom: 0em;
+}
 .info_section ul{
 
 }

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7092cd39-fb4e-47f1-bbda-0a869d2aa542" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/course.html" beforeDir="false" afterPath="$PROJECT_DIR$/course.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/default/css/mine.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/default/css/mine.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,16 +13,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mine.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mine.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/default/css/mine.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="1303" column="21" selection-start-line="1303" selection-start-column="21" selection-end-line="1303" selection-end-column="21" />
+            <state relative-caret-position="212">
+              <caret line="1281" column="51" selection-start-line="1281" selection-start-column="51" selection-end-line="1281" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="course.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="course.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/course.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
@@ -72,8 +72,8 @@
       <find>info_se</find>
       <find>course</find>
       <find>txa</find>
-      <find>FLEXIBLE</find>
       <find>info_section</find>
+      <find>FLEXIBLE</find>
     </findStrings>
     <replaceStrings>
       <replace>logo3</replace>
@@ -122,8 +122,8 @@
         <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/courses.html" />
         <option value="$PROJECT_DIR$/assets/default/js/mine.js" />
-        <option value="$PROJECT_DIR$/assets/default/css/mine.css" />
         <option value="$PROJECT_DIR$/course.html" />
+        <option value="$PROJECT_DIR$/assets/default/css/mine.css" />
       </list>
     </option>
   </component>
@@ -225,12 +225,12 @@
       <workItem from="1660999414855" duration="10718000" />
       <workItem from="1661125719751" duration="2101000" />
       <workItem from="1661132418421" duration="3565000" />
-      <workItem from="1661359064939" duration="1222000" />
+      <workItem from="1661359064939" duration="1900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90272000" />
+    <option name="totallyTimeSpent" value="90950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -522,17 +522,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/default/css/mine.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="1303" column="21" selection-start-line="1303" selection-start-column="21" selection-end-line="1303" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/course.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="79" column="32" lean-forward="true" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/default/css/mine.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="1281" column="51" selection-start-line="1281" selection-start-column="51" selection-end-line="1281" selection-end-column="51" />
         </state>
       </provider>
     </entry>

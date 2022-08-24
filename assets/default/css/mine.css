@@ -1278,6 +1278,13 @@ footer .footer-menu li a {
 }
 
 /*course page*/
+.course-content-section .nav-tabs .nav-item a{
+    border-bottom: 4px solid transparent!important;
+}
+.course-content-section .nav-tabs .nav-item a.active{
+    border-bottom: 4px solid var(--secondry-color)!important;
+}
+
 .course-content-section .course-title{
     min-height: auto;
     max-height: auto;
